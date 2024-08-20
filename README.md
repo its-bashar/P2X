@@ -74,6 +74,6 @@ Bashar Majed Al-Smadi. (2024). Exploring Hetero-trimeric P2X Receptor Complexes 
 
 ## Contact
 
-Bashar Al-Smadu - Bsmadi20@gmail.com
+Bashar Al-Smadi - Bsmadi20@gmail.com
 
 For any questions or feedback, please open an issue in this GitHub repository.
