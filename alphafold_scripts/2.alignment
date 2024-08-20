@@ -1,0 +1,8 @@
+## Method1: THIS WAS USED
+# website used: https://www.ebi.ac.uk/jdispatcher/msa/clustalo
+# Sequence Type: Select "Protein"
+# Paste Your Sequences: Copy and paste your consolidated FASTA sequences (P2X_receptors.fasta) into the input box.
+# Fasta was downloaded
+# FASTA RESULT: https://www.ebi.ac.uk/jdispatcher/msa/clustalo/summary?jobId=clustalo-I20240610-231846-0948-74374821-p1m
+# Used jalview and biopython (3.identify_core_regions.py THIS WAS USED) to identifiy the highly conserved regions.
+
